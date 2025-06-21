@@ -120,7 +120,6 @@ Special thanks to the local communities and researchers working to protect Colom
 
 **Bhumika Baranwal**  
 B.Tech CSE (3rd Year), NIT Delhi  
-GitHub: [@saloni-bar](https://github.com/saloni-bar)
 
 ---
 
